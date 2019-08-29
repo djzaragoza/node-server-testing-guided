@@ -32,3 +32,5 @@ describe('calc_funcs', () => {
     })
 });
 
+//AAA
+// A = arrange A = act A = assess
